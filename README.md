@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bin Xia(@wuwen1030)
-- 👀 I am an iOS developer.
+- 👀 I’m an iOS developer.
 - 🌱 I’m currently learning ML, frontend and backend.
-- 💞️ I prefer to work from Home.
+- 💞️ I prefer to work from home.
 - 📫 Email: wuwen1030@gmail.com.
 
 <!---
