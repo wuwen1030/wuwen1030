@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ben(@wuwen1030)
 - 👀 I’m an iOS developer.
-- 🌱 I’m currently learning ML, frontend and backend.
 - 💞️ I prefer to work from home.
 - 📫 Email: wuwen1030@gmail.com.
 
